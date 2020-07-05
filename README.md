@@ -28,9 +28,6 @@
 
 - - - - -
 
-- Front-end part is taken from [TheEvent by BootstrapMade](https://bootstrapmade.com/theevent-conference-event-bootstrap-template/) and transformed into Laravel Blade and assets.
-- Admin part is fully generated with [QuickAdminPanel](https://2019.quickadminpanel.com).
-
 ---
 
 ## How to use
