@@ -1,7 +1,6 @@
 # Laravel 6 Conference Event Demo
 
-Transformed free Bootstrap theme called [TheEvent](https://bootstrapmade.com/theevent-conference-event-bootstrap-template/) into fully manageable Laravel project with adminpanel, 
-to manage all the sections from event's homepage.
+
 
 - - - - -
 
@@ -44,16 +43,3 @@ to manage all the sections from event's homepage.
 - That's it: launch the main URL. 
 - You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__
 
-## License
-
-Basically, feel free to use and re-use any way you want.
-
----
-
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
